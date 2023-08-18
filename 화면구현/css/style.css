@@ -15,7 +15,7 @@ input,textarea {outline: none;}
 /* header 시작 */
 header{
     width: 100%;
-    height: 160px;
+    height: 135px;
     background-color: #d3e7fc;
 }
 
@@ -27,8 +27,8 @@ header > div.top{
 }
 header > div.top > a{
     display: inline-block;
-    margin-top: 55px;
-    font-size: 35px;
+    margin-top: 40px;
+    font-size: 25px;
     font-weight: bold;
 }
 header > div.top > a:first-child{
@@ -46,14 +46,48 @@ header > div.top > a > span.stick{
 /* header 끝*/
 
 /* main 시작 */
-main{}
-main > section.background{}
-main > section.background > article{}
-main > section.background > article > a{}
+main{
+    width: 100%;
+    height: auto;
+}
+main > section.background{
+    background-color: #092441;
+    width: 100%;
+    height: 1500px;
+}
+main > section.background > article.ellipse1{}
+main > section.background > article.ellipse2{}
+main > section.background > article.ellipse3{}
+main > section.background > section.sec_welcome{}
+main > section.background > section.sec_welcome > article{}
+main > section.background > section.sec_welcome > article > a{}
+main > section.background > section.sec_event{}
+main > section.background > section.sec_event > div{}
+main > section.background > section.sec_event > div > h4{}
+main > section.background > section.sec_event > div > h3{}
+main > section.background > section.sec_event > div > h2{}
+main > section.background > section.sec_banner{}
+main > section.background > section.sec_banner > div{}
+main > section.background > section.sec_banner > div > article{}
+main > section.background > section.sec_banner > div > article > h2{}
+main > section.background > section.sec_info{}
+main > section.background > section.sec_info > article.basic > a{}
+main > section.background > section.sec_info > article.basic > a > h4.line{}
+main > section.background > section.sec_info > article.basic > a > div.title{}
+main > section.background > section.sec_info > article.basic > a > div.title > p{}
+main > section.background > section.sec_info > article.basic > a > div.title > p > span.font_size{}
+main > section.background > section.sec_info > article.basic > a > div.price{}
+main > section.background > section.sec_info > article.basic > a > div.price > p{}
+main > section.background > section.sec_info > article.basic > a > div.price > span{}
+main > section.background > section.sec_info > article.basic > a > div.option{}
+main > section.background > section.sec_info > article.basic > a > div.option > span{}
+main > section.background > section.sec_info > article.basic > a > div.option > p{}
+main > section.background > section.sec_info > article.premium{}
+main > section.background > section.sec_info > article.pro{}
 main > section.background > article > a{}
 /* main 끝 */
 
-/* footer 시작 */
+/* 공통 footer 시작 */
 footer{
     width: 100%;
     height: auto;
@@ -105,5 +139,5 @@ footer > div > p{
     color: #fff;
     line-height: 25px;
 }
-/* footer 끝 */
+/* 공통 footer 끝 */
 
