@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-small-bold: "Noto Sans KR";
+  --font-nanum-pen: "Nanum Pen";
+  --font-sans-serif-collection: "Sans Serif Collection";
+  --font-museomoderno: MuseoModerno;
+
+  /* font sizes */
+  --text-small-bold-size: 16px;
+  --heading-h5-size: 30px;
+  --text-medium-medium-size: 24px;
+  --font-size-lgi: 19px;
+  --heading-h1-size: 50px;
+  --heading-h3-size: 40px;
+  --font-size-lg: 18px;
+  --font-size-13xl: 32px;
+  --heading-h2-size: 44px;
+  --font-size-7xl: 26px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-gray-100: #787878;
+  --color-gray-200: #092441;
+  --color-sky-3: #dbecfe;
+  --color-black-1: #000;
+  --color-white1: #fff;
+  --color-grey-4: #bdbdbd;
+  --color-error: #ff5454;
+  --color-secondary: #2787f5;
+  --color-sky-5: #f8fbff;
+  --color-dimgray: #727272;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-0: 0px;
+  --gap-7xl: 26px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-11xs: 2px;
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-135xl: 154px;
+  --br-sm: 14px;
+  --br-31xl: 50px;
+}
