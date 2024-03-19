@@ -1,0 +1,510 @@
+.div1213 {
+  position: absolute;
+  top: 1389px;
+  left: 0;
+  background-color: #dbecfe;
+  width: 1920px;
+  height: 393px;
+}
+.div1214,
+.frame-child244 {
+  position: relative;
+}
+.frame-child244 {
+  width: 1px;
+  border-right: 1px solid #727272;
+  box-sizing: border-box;
+  height: 13px;
+}
+.div1217,
+.parent194 {
+  position: absolute;
+  font-size: 17px;
+  color: #727272;
+}
+.parent194 {
+  top: 1645px;
+  left: 817px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+  text-align: left;
+}
+.div1217 {
+  top: 1700px;
+  left: 542px;
+  white-space: pre-wrap;
+}
+.cladance198 {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  font-weight: 600;
+}
+.image-5-icon55 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 66px;
+  height: 59px;
+  object-fit: cover;
+}
+.cladance-parent53 {
+  position: absolute;
+  top: 1434px;
+  left: 806px;
+  width: 308px;
+  height: 80px;
+  cursor: pointer;
+  font-size: 50px;
+  color: #727272;
+  font-family: MuseoModerno;
+}
+.mynoteuploaded-child {
+  position: absolute;
+  top: 1539px;
+  left: 826px;
+  width: 36px;
+  height: 36px;
+}
+.instagramcladance-official55,
+.kakaotalk55 {
+  position: absolute;
+  top: 1536px;
+  left: 870px;
+  font-size: 16px;
+  font-family: "Sans Serif Collection";
+  color: #727272;
+}
+.kakaotalk55 {
+  top: 1586px;
+  left: 892px;
+}
+.group-child291 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #727272;
+  width: 44px;
+  height: 35px;
+}
+.group-child292 {
+  position: absolute;
+  top: 24px;
+  left: 2px;
+  width: 19.7px;
+  height: 21.2px;
+  object-fit: contain;
+}
+.talk57 {
+  position: absolute;
+  top: 1px;
+  left: 6px;
+}
+.ellipse-parent58 {
+  position: absolute;
+  top: 1583px;
+  left: 840px;
+  width: 44px;
+  height: 45.2px;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Sans Serif Collection";
+}
+.b802,
+.cladance199 {
+  position: absolute;
+  text-align: left;
+}
+.cladance199 {
+  top: 69px;
+  left: 278px;
+  font-family: "Nanum Pen";
+  color: #fff;
+}
+.b802 {
+  top: 206px;
+  left: 200px;
+  font-size: 50px;
+  line-height: 55px;
+}
+.home54 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.right-16px-icon162 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.detail109 {
+  width: 56px;
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+  display: none;
+}
+.right-16px-icon164 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.pricing54 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+  color: #2787f5;
+}
+.home-icon54,
+.list54 {
+  position: absolute;
+  top: -4px;
+}
+.list54 {
+  left: 41px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.home-icon54 {
+  left: -4px;
+  width: 33px;
+  height: 28px;
+}
+.b803,
+.breadcrumbs54 {
+  position: absolute;
+  text-align: left;
+}
+.breadcrumbs54 {
+  top: 238px;
+  left: 512px;
+  width: 286px;
+  height: 24px;
+  color: #828282;
+}
+.b803 {
+  top: 317px;
+  left: 258px;
+  font-size: 40px;
+  line-height: 44px;
+}
+.instance-child118 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #dbecfe;
+  width: 120px;
+  height: 144px;
+}
+.title74 {
+  position: absolute;
+  top: 102px;
+  left: 29px;
+  line-height: 17.6px;
+}
+.image-fill95 {
+  position: absolute;
+  top: 24px;
+  left: 48px;
+  width: 24px;
+  height: 24px;
+}
+.no-image91 {
+  position: absolute;
+  top: 56px;
+  left: 24px;
+  line-height: 22.4px;
+  font-weight: 500;
+  color: #2787f5;
+}
+.instance-child119,
+.rectangle-parent184 {
+  width: 120px;
+  position: relative;
+  height: 144px;
+}
+.instance-child119 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #94c5fa;
+}
+.title76,
+.title77 {
+  position: absolute;
+  top: 102px;
+  left: 43px;
+  line-height: 17.6px;
+}
+.title77 {
+  left: 36px;
+}
+.instance-parent13 {
+  position: absolute;
+  top: 393px;
+  left: 248px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 32px;
+  font-size: 16px;
+}
+.b804 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 30.5px);
+  line-height: 22.4px;
+}
+.small-button115 {
+  position: absolute;
+  top: 1277px;
+  left: 272px;
+  border-radius: 8px;
+  background-color: #2787f5;
+  width: 97px;
+  height: 48px;
+  overflow: hidden;
+  font-size: 16px;
+  color: #fff;
+}
+.instance-child122 {
+  width: calc(100% + 2px);
+  top: 1px;
+  right: -1px;
+  left: -1px;
+  border-top: 2px solid #000;
+  height: 2px;
+}
+.box64,
+.instance-child122,
+.instance-child123 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.instance-child123 {
+  width: calc(100% + 2px);
+  right: -1px;
+  bottom: -1px;
+  left: -1px;
+  border-top: 2px solid #000;
+  height: 2px;
+}
+.box64 {
+  top: 30px;
+  left: 48px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 2px solid #2787f5;
+  width: 24px;
+  height: 24px;
+}
+.b805,
+.b806,
+.b807,
+.b808,
+.b809 {
+  position: absolute;
+  top: 28px;
+  line-height: 28px;
+}
+.b805 {
+  left: calc(50% - 280px);
+}
+.b806,
+.b807,
+.b808,
+.b809 {
+  right: 516px;
+}
+.b807,
+.b808,
+.b809 {
+  right: 399px;
+}
+.b808,
+.b809 {
+  right: 263px;
+}
+.b809 {
+  right: 64px;
+}
+.line-parent2 {
+  position: absolute;
+  top: 601px;
+  left: 248px;
+  background-color: #e0efff;
+  width: 1424px;
+  height: 84px;
+  overflow: hidden;
+  text-align: left;
+}
+.box65,
+.instance-child124 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.instance-child124 {
+  width: calc(100% + 1px);
+  right: -0.5px;
+  bottom: -0.5px;
+  left: -0.5px;
+  border-top: 1px solid #000;
+  height: 1px;
+}
+.box65 {
+  top: 84px;
+  left: 48px;
+  border-radius: 4px;
+  border: 2px solid #e0efff;
+  width: 24px;
+  height: 24px;
+}
+.b810,
+.div1218 {
+  position: absolute;
+  width: calc(100% - 917px);
+  top: 32px;
+  left: 308px;
+  line-height: 28px;
+  display: inline-block;
+  text-align: left;
+}
+.div1218 {
+  top: 68px;
+}
+.div1219,
+.div1220,
+.div1221,
+.div1222 {
+  position: absolute;
+  top: 82px;
+  right: 500px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.div1220,
+.div1221,
+.div1222 {
+  right: 399px;
+}
+.div1221,
+.div1222 {
+  right: 273px;
+}
+.div1222 {
+  right: 69px;
+  color: #2f2be0;
+}
+.icon120 {
+  position: absolute;
+  top: 16px;
+  left: 120px;
+  width: 132px;
+  height: 160px;
+  object-fit: cover;
+}
+.line-parent3,
+.line-parent4,
+.line-parent5 {
+  position: absolute;
+  top: 877px;
+  left: 248px;
+  background-color: #fff;
+  width: 1424px;
+  height: 192px;
+  overflow: hidden;
+}
+.line-parent4,
+.line-parent5 {
+  top: 1069px;
+}
+.line-parent5 {
+  top: 685px;
+}
+.group-child293,
+.mynoteuploaded-item {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  background-color: #fff;
+  width: 1920px;
+  height: 128px;
+}
+.group-child293 {
+  top: 0;
+  border-radius: 154px;
+  background-color: #dbecfe;
+  width: 142px;
+  height: 47px;
+}
+.b813 {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  line-height: 22.4px;
+}
+.rectangle-parent188 {
+  position: absolute;
+  top: 47px;
+  left: 1714px;
+  width: 142px;
+  height: 47px;
+  font-size: 16px;
+}
+.icon123 {
+  position: absolute;
+  top: 52px;
+  left: 64px;
+  width: 196px;
+  height: 42px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.b814 {
+  position: relative;
+  line-height: 33px;
+}
+.frame-child246 {
+  width: 0;
+  position: relative;
+  height: 24px;
+  object-fit: contain;
+}
+.parent195 {
+  position: absolute;
+  top: 53px;
+  left: 928px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 30px;
+  font-size: 30px;
+}
+.mynoteuploaded {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1080px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: 20px;
+  color: #000;
+  font-family: "Noto Sans KR";
+}

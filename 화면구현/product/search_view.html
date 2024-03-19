@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>노트 상세보기</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@300&family=Noto+Serif+KR:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=MuseoModerno:wght@600&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@300&family=Noto+Serif+KR:wght@600&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e8f010a863.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css"/>
+    <link rel="stylesheet" href="./css/style.css"/>
+</head>
+<body>
+    <header>
+        <div class="top">
+            <a href="#">
+                <img src="https://via.placeholder.com/200X50" alt="헤더로고">
+            </a>
+            <a href="#"><p>지식의 문을 열다 , CLAdance</p></a>
+            <a href="#">노트 통합검색<span class="stick">&nbsp;|&nbsp;</span></a>
+            <a href="#">고객센터<span class="stick">&nbsp;|&nbsp;</span></a>
+            <a href="#">CLAdance 사용설명서</a>
+        </div>
+    </header>
+    <main>
+        <section id="view">
+            <div class="title">
+                <h2><span>노트 상세보기</span></h2>
+            </div>
+            <div class="note-title">
+                <h4><span>화학공정개론 중간 정리 노트</span></h4>
+                <span class="note-price">5,000원</span>
+            </div>
+            <div class="note-info">
+                <img src="https://via.placeholder.com/300X500" alt="#">
+                <div class="info-box">
+                    <div class="box-head">
+                        <h5>노트정보</h5>
+                        <div class="heart-rate">
+                            <button class="heart-img"><i class="fa fa-heart fa-2x"aria-hidden="true"></i></button>
+                            <span class="heart-score">2</span>
+                        </div>
+                    </div>
+                    <div class="review-rate">
+                        <span class="score">2.4</span>
+                        <h5 class="rating star5"></h5>
+                    </div>
+                    <div class="table-box">
+                        <ul>
+                            <li>
+                                <nav>학교</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>학과</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>과목</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>교수</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>제작 시기</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>범위</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>교재</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li>
+                                <nav>성적</nav>
+                                <span>울산과학기술원</span>
+                            </li>
+                            <li class="hashtag">
+                                <span>#UINIST</span>
+                                <span>#물질수지식</span>
+                                <span>#에화공</span>
+                                <span>#원자경제성</span>
+                                <span>#공정경제성</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <span class="note-writer">제작자 : 김*민</span>
+                </div>
+            </div>
+            <div class="note-simple">
+                <h5><span>노트 소개</span></h5>
+                <p>
+                    화학공정개론의 물질수지식 기초 파트까지의 정리본입니다.<br/>
+
+                    기본적인 Gaussian 소거법을 이용하여 화학반응식의 계수를 맞추는 법, Generation-Consumption Analysis Table, Atomic<br/>
+                    Economy, Process Economy 등의 사용 방법과 적절한 예시가 나와있습니다. 또한, 화학공정 모식도를 나타내는 방식에 따른 모형과 물<br/>
+                    질수지식 작성에 필요한 다양한 변수, DOF Analysis 등의 방식이 서술되어있습니다.<br/>
+
+                    예시와 문제풀이가 많이 나와있기 때문에 다른 자료 없이 공부하는데도 많은 도움을 줄 수 있을 것으로 보입니다.
+                </p>
+            </div>
+            <h2 class="line"></h2>
+            <div class="chapter">
+                <h5><span>목차</span></h5>
+                <div class="chapter-box">
+                    <div class="cbox">
+                        <h2>Chapter 1. Converting the earth‘s resources into useful products</h2>
+                        <ul>
+                            <li>Stoichiometrically balanced chemical equation</li>
+                            <li>Generation-Consumption Analysis</li>
+                            <li>Atomic Economy</li>
+                            <li>Process Economy</li>
+                        </ul>
+                    </div>
+                    <div class="cbox">
+                        <h2>Chapter 2. Process Flows: Variables, Diagrams, Balances</h2>
+                        <ul>
+                            <li>Chemical Process Flow Sheets</li>
+                            <ul>
+                                <li>Input-Output flow diagram</li>
+                                <li>Block flow diagram</li>
+                                <li>Process flow diagram</li>
+                            </ul>
+                            <li>Modes of Process Operation</li>
+                            <ul>
+                                <li>Batch process</li>
+                                <li>Continuous-flow process</li>
+                                <li>Semibatch process</li>
+                            </ul>
+                            <li>Material Balance Equation</li>
+                            <li>DOF Analysis</li>
+                        </ul>
+                    </div>
+                    <div class="cbox">
+                        <h2>Chapter 3. Mathematical Analysis of Material Balance Equations and Process Flow Sheets</h2>
+                        <ul>
+                            <li>Material Balance Equation: Differential Form</li>
+                            <li>Material Balance Equation: Integral Form</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <h2 class="line"></h2>
+            <div class="review-box">
+                <h5><span>리뷰</span></h5>
+                <article>
+                    <ul>
+                        <li>
+                            <div>
+                                <div class="review-fbox">
+                                    <img src="https://via.placeholder.com/51X51" alt="#">
+                                    <span>kk*****</span>
+                                    <h5 class="rating star5"></h5>
+                                </div>
+                                <p>
+                                    노트가 깔끔하고 내용의 예시가 많이 있어서 보기 좋았어요!
+                                    유니 에화공이라면 보면서 공부하기 좋습니다~
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <div class="review-fbox">
+                                    <img src="https://via.placeholder.com/51X51" alt="#">
+                                    <span>kk*****</span>
+                                    <h5 class="rating star5"></h5>
+                                </div>
+                                <p>
+                                    노트가 깔끔하고 내용의 예시가 많이 있어서 보기 좋았어요!
+                                    유니 에화공이라면 보면서 공부하기 좋습니다~
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </article>
+                <div class="paging">
+                    <span class="prev"><a href="#">&lt;이전</a></span>
+                    <span class="num">
+                        <a href="#" class="on">1</a>
+                        <a href="#">2</a>
+                    </span>
+                    <span class="next"><a href="#">다음&gt;</a></span>
+                </div>
+            </div> 
+        </section>
+    </main>
+    <footer>
+        <div>
+            <div>
+                <img src="../img/image 5logo.png" alt="#">
+                <a href="#"><span>CLAdance</span></a>
+            </div>
+            <div>
+                <img src="../img/Group 35sns.png" alt="#">
+                <a href="#"><span>instagram(@cladance_official)</span></a>
+            </div>
+            <div>
+                <img src="../img/Group 36sns.png" alt="#">
+                <a href="#"><span>kakaotalk(문의 오픈채팅방)</span></a>
+            </div>
+            <div>
+                <a href="#">회사소개</a><span class="bar">&nbsp;|&nbsp;</span>
+                <a href="#">이용약관</a><span class="bar">&nbsp;|&nbsp;</span>
+                <a href="#">개인정보 취급방침</span></a>
+            </div>
+            <div>
+                <p>
+                    대표이사 : 김강민 , 김현진&nbsp;&nbsp;&nbsp;&nbsp;
+                    울산광역시 울주군 유니스트길 50&nbsp;&nbsp;&nbsp;&nbsp;
+                    문의 : 010-7168-5797(이외 문의는 오픈채팅방 이용 바랍니다.)
+                </p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

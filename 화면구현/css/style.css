@@ -371,7 +371,7 @@ footer > div.menu > ul > li:first-child > a:first-child{
 }
 footer > div{
     width: 100%;
-    height: 100px;
+    height: auto;
 }
 footer > div > p:first-child{
     width: 200px;

@@ -1,0 +1,348 @@
+.div371 {
+  position: absolute;
+  top: 1080px;
+  left: 0;
+  background-color: #dbecfe;
+  width: 1920px;
+  height: 393px;
+}
+.div372,
+.frame-child51 {
+  position: relative;
+}
+.frame-child51 {
+  width: 1px;
+  border-right: 1px solid #727272;
+  box-sizing: border-box;
+  height: 13px;
+}
+.div375,
+.parent66 {
+  position: absolute;
+  font-size: 17px;
+}
+.parent66 {
+  top: 1336px;
+  left: 817px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.div375 {
+  top: 1391px;
+  left: 542px;
+  white-space: pre-wrap;
+  text-align: center;
+}
+.cladance40 {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  font-weight: 600;
+}
+.image-5-icon13 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 66px;
+  height: 59px;
+  object-fit: cover;
+}
+.cladance-parent11 {
+  position: absolute;
+  top: 1125px;
+  left: 806px;
+  width: 308px;
+  height: 80px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 50px;
+  font-family: MuseoModerno;
+}
+.memberlogin-child {
+  position: absolute;
+  top: 1230px;
+  left: 826px;
+  width: 36px;
+  height: 36px;
+}
+.instagramcladance-official13,
+.kakaotalk13 {
+  position: absolute;
+  top: 1227px;
+  left: 870px;
+  font-family: "Sans Serif Collection";
+  text-align: center;
+}
+.kakaotalk13 {
+  top: 1277px;
+  left: 892px;
+}
+.group-child66 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #727272;
+  width: 44px;
+  height: 35px;
+}
+.group-child67 {
+  position: absolute;
+  top: 24px;
+  left: 2px;
+  width: 19.7px;
+  height: 21.2px;
+  object-fit: contain;
+}
+.talk13 {
+  position: absolute;
+  top: 1px;
+  left: 6px;
+}
+.ellipse-parent13 {
+  position: absolute;
+  top: 1274px;
+  left: 840px;
+  width: 44px;
+  height: 45.2px;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Sans Serif Collection";
+}
+.cladance41 {
+  position: absolute;
+  top: 69px;
+  left: 278px;
+  font-size: 20px;
+  font-family: "Nanum Pen";
+  color: #fff;
+}
+.memberlogin-item {
+  position: absolute;
+  top: 328px;
+  left: 692px;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  width: 536px;
+  height: 515px;
+}
+.b251,
+.cladance42 {
+  position: absolute;
+  top: 867px;
+  font-size: 20px;
+  line-height: 28px;
+}
+.cladance42 {
+  left: 765px;
+  font-weight: 500;
+  color: #000;
+}
+.b251 {
+  left: 1040px;
+  color: #2f2be0;
+}
+.cladance43,
+.log-in {
+  position: absolute;
+  text-align: center;
+}
+.log-in {
+  top: 392px;
+  left: 886px;
+  font-size: 50px;
+  color: #000;
+}
+.cladance43 {
+  top: 216px;
+  left: 869px;
+  font-size: 62px;
+  font-weight: 600;
+  font-family: MuseoModerno;
+  display: inline-block;
+  width: 281px;
+  height: 100px;
+}
+.div376 {
+  position: absolute;
+  top: 788px;
+  left: 1032px;
+  line-height: 22.4px;
+  color: #787878;
+  text-align: right;
+}
+.instagram-logo-1 {
+  position: absolute;
+  top: 222px;
+  left: 764px;
+  width: 93px;
+  height: 87px;
+  object-fit: cover;
+}
+.input-text21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 22.4px;
+  display: none;
+}
+.placeholder60 {
+  position: absolute;
+  width: calc(100% - 48px);
+  top: calc(50% - 12px);
+  right: 24px;
+  left: 24px;
+  height: 23px;
+}
+.form54 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #e0efff;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.input-empty,
+.input-empty1 {
+  position: absolute;
+  top: 536px;
+  left: 728px;
+  width: 463px;
+  height: 66px;
+  color: #bdbdbd;
+}
+.input-empty1 {
+  top: 610px;
+}
+.password {
+  position: absolute;
+  top: 625px;
+  left: 789px;
+  font-size: 24px;
+  line-height: 33.6px;
+  font-weight: 500;
+  color: #787878;
+}
+.memberlogin-inner {
+  position: absolute;
+  top: 628px;
+  left: 752px;
+  width: 23px;
+  height: 30px;
+}
+.id,
+.memberlogin-child1 {
+  position: absolute;
+  top: 552px;
+}
+.id {
+  left: 802px;
+  font-size: 24px;
+  line-height: 33.6px;
+  font-weight: 500;
+  color: #787878;
+}
+.memberlogin-child1 {
+  left: 748px;
+  width: 30px;
+  height: 34px;
+  object-fit: cover;
+}
+.button-sample7 {
+  width: 147px;
+  position: relative;
+  line-height: 28px;
+  display: none;
+}
+.medium-button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #2787f5;
+  width: 463px;
+  height: 64px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 18px 90px;
+  box-sizing: border-box;
+}
+.sign-in {
+  position: absolute;
+  top: 18px;
+  left: 198px;
+  line-height: 28px;
+}
+.medium-button-group {
+  position: absolute;
+  top: 708px;
+  left: 728px;
+  width: 463px;
+  height: 64px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+}
+.checkbox6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 22.4px;
+  display: inline-block;
+}
+.placeholder62 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  width: 158px;
+  height: 23px;
+}
+.box10,
+.checkboc-unchecked6 {
+  position: absolute;
+  height: 24px;
+}
+.box10 {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 2px solid #dbecfe;
+  box-sizing: border-box;
+  width: 24px;
+}
+.checkboc-unchecked6 {
+  top: 788px;
+  left: 736px;
+  width: 117px;
+  color: #4f4f4f;
+}
+.memberlogin {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1080px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: 16px;
+  color: #727272;
+  font-family: "Noto Sans KR";
+}
