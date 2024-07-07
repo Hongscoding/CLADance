@@ -1,3 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    font: normal 12px "맑은 고딕";
+}
+
+ul,ol {list-style: none;}
+
+a {text-decoration: none;color: #111;}
+
+input,textarea {outline: none;}
+
+#wrapper {width: 100%;}
+
+/* rating */
+main h6.rating{
+    font-size: 11px;
+    background-image: url("/화면구현/img/rating_star.png");
+    background-repeat: no-repeat;
+    background-position: 36px 0px;
+    background-size: auto 100%;
+}
+main h6.rating.star1{width: 55px;}
+main h6.rating.star2{width: 70px;}
+main h6.rating.star3{width: 85px;}
+main h6.rating.star4{width: 100px;}
+main h6.rating.star5{width: 120px;}
+
+main h5.rating{
+    width: 95px;
+    height: 20px;
+    font-size: 0px;
+    background-image: url("/화면구현/img/ico_rating_star.png");
+    background-repeat: no-repeat;
+    background-position: 0 4px;
+    text-indent: 86px;
+}
+main h5.rating.star1{background-position: 0 -36px;}
+main h5.rating.star2{background-position: 0 -76px;}
+main h5.rating.star3{background-position: 0 -116px;}
+main h5.rating.star4{background-position: 0 -156px;}
+main h5.rating.star5{background-position: 0 -196px;}
+
+
+/* 공통 footer 시작 */
+footer{
+    width: 100%;
+    height: 400px;
+    background: #DBECFE;
+}
+footer > div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer > div > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer > div > div:nth-child(1){
+    margin: 30px 0 30px;
+}
+footer > div > div:nth-child(2){
+    margin: 0 0 10px;
+}
+footer > div > div:nth-child(3){
+    margin: 10px 0 10px;
+}
+footer > div > div:nth-child(4){
+    margin-top: 10px;
+}
+footer > div > div:nth-child(5){
+    margin: 30px 0 0;
+}
+footer > div > div:nth-child(1) > a{
+    margin-left: 10px;
+}
+footer > div > div:nth-child(2) > a{
+    margin-left: 10px;
+}
+footer > div > div:nth-child(3) > a{
+    margin-left: 10px;
+}
+footer > div > div:nth-child(1) > a > span{
+    font-family: 'MuseoModerno';
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #727272;
+
+}
+footer > div > div:nth-child(2) > a > span{
+    font-family: 'Noto Serif KR', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #727272;
+}
+footer > div > div:nth-child(3) > a > span{
+    font-family: 'Noto Serif KR', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #727272;
+}
+footer > div > div:nth-child(4) > a{
+    font-family: 'Noto Sans KR';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #727272;
+}
+footer > div > div:nth-child(4) > span.bar{
+    font-size: 22px;
+    text-align: center;
+    color: #727272;
+}
+footer > div > div:nth-child(5) > p{
+    font-family: 'Noto Sans KR';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #727272;
+}
+
+/* 공통 footer 끝 */
+
+/* cart start */
 .div266 {
   position: absolute;
   top: 1603px;
@@ -245,6 +385,7 @@
   background-color: #dbecfe;
   width: 698px;
   height: 288px;
+  margin-bottom: 40px;
 }
 .b183 {
   position: relative;
@@ -344,7 +485,7 @@
 }
 .b189 {
   position: absolute;
-  top: 18px;
+  top: 4px;
   left: 215px;
   line-height: 28px;
 }
@@ -606,10 +747,38 @@
   width: 100%;
   position: relative;
   background-color: #fff;
-  height: 2000px;
-  overflow-y: hidden;
+  height:1800px;
+  overflow: hidden;
   text-align: left;
   font-size: 20px;
   color: #000;
   font-family: "Noto Sans KR";
 }
+/* PC , 테블릿 가로 (해상도 768px ~ 1023px)*/ 
+@media all and (min-width:768px) and (max-width:1023px) { 
+  .productcart {
+    width: 100%;
+  }
+} 
+  
+/* 테블릿 세로 (해상도 768px ~ 1023px)*/ 
+@media all and (min-width:768px) and (max-width:1023px) { 
+  .productcart {
+    width: 70%;
+  }
+} 
+
+/* 모바일 가로, 테블릿 세로 (해상도 480px ~ 767px)*/ 
+@media all and (min-width:480px) and (max-width:767px) {
+  .productcart {
+    width: 50%;
+  }
+} 
+
+/* 모바일 가로, 테블릿 세로 (해상도 ~ 479px)*/ 
+@media all and (max-width:479px) {
+  .productcart {
+    width: 30%;
+  }
+}
+/* cart end */
